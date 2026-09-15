@@ -1,0 +1,25 @@
+{
+  "AAPL": {
+    "name": "Apple",
+    "drop_alert": -3,
+    "rise_alert": 3,
+    "market": "US",
+    "risk": "medium",
+    "alert_step": 1
+  },
+  "MSFT": {
+    "name": "Microsoft",
+    "drop_alert": -3,
+    "rise_alert": 3,
+    "market": "US",
+    "risk": "medium",
+    "alert_step": 1
+  },
+  "NVDA": {
+    "name": "Nvidia",
+    "drop_alert": -4,
+    "rise_alert": 4,
+    "market": "US",
+    "alert_step": 1
+  }
+}
